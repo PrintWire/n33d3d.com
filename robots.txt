@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://n33d3d.com/sitemap.xml
